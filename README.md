@@ -1,6 +1,7 @@
-**Modules:**
+**Modules**:
 
-pefile,
-sys,
-os,
-capstone
+    pefile,
+    sys,
+    os,
+    capstone
+  
