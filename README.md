@@ -3,7 +3,8 @@
     pefile,
     sys,
     os,
-    capstone
+    capstone,
+    argparse
 
 **About**:
     
