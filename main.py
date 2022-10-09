@@ -1,5 +1,4 @@
 # @ waves
-from os.path import exists
 from capstone import *
 import argparse
 import pefile
